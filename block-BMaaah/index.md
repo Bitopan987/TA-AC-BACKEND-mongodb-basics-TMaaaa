@@ -38,7 +38,7 @@ Write code to execute below expressions.
 7. 2. Find documents using author's name field.
 8. Find document using a specific tag.
 
-<!-- 9. Update title of a document using its \_id field. -->
+9. Update title of a document using its \_id field.
 
 10. Update a author's name using article's title.
 11. rename details field to description from all articles in articles collection.
